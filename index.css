@@ -1,0 +1,162 @@
+body{
+    width: 100%;
+    height:100vh;
+    background-color: gainsboro;
+    overflow: scroll;
+}
+
+.login-section{
+    width: 1200px;
+    height: 700px;
+    
+padding: 0px 0px 0px 5px;
+box-sizing: border-box;
+background:white;
+display: flex;
+justify-content: center;
+margin: 20px 30px 0 30px;
+
+
+}
+.content{
+    padding: 100px;
+    width: 800px;
+    height: 400px;
+}
+h1{
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 63px;
+    color: #333333;
+}
+.paragraph{
+      font-family: Inter;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: center;
+    color: #828282;
+    
+}
+.google{
+    vertical-align: middle;
+}
+.google-tag{
+    text-align: center;
+    margin-top: 25px;
+    width: 300px;
+    height: 54px;
+    border-radius: 6px;
+    border: 1px solid #DDDDDD;
+    
+
+}
+.login-with-google{
+    
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+
+}
+.line{
+    margin-top: 25px;
+}
+.line-1{
+    width: 154px;
+    border: 1px solid #E0E0E0 ;
+    color: #E0E0E0;
+}
+
+.line-2{
+    width: 118px;
+    border: 1px solid #E0E0E0;
+    color: #E0E0E0;
+}
+.Email{
+    margin-top: 30px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+    color: #333333;
+    
+}
+.email-box{
+    margin-top: 10px;
+    
+}
+#E-mail-box{
+    padding: 15px;
+    width: 270px;
+    height: 15px;
+    border: 1px solid #DDDDDD;
+    border-radius: 6px;
+    background: linear-gradient(0deg, #DDDDDD, #DDDDDD),
+    linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+
+}
+.password{
+    display: flex;
+    gap: 100px;
+    margin-top: 25px;
+}
+.password-1{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+    color: #333333;
+    
+}
+.password-2{
+    
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #2F80ED;
+}
+#Login-box{
+    margin-top: 40px;
+    width: 300px;
+    height: 45px;
+    border-radius: 6px;
+    border: 1px solid #2F80ED;
+    background-color: #2F80ED;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+}
+.Register{
+    margin-top: 10px;
+      text-align: center;
+}
+.register-1{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color:#828282 ;
+
+}
+.register-2{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+color: #000000;
+
+}
